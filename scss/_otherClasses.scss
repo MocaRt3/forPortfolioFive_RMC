@@ -1,0 +1,29 @@
+html, body{
+	background-color: #161922;
+}
+.btn{
+	padding: 15px 30px;
+	border: 1px solid #FFF;
+	background-color: transparent;
+}
+.btn a{
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	text-transform: uppercase;
+}
+
+.title-small{
+	display: none;
+	color: #FFF;
+	font-family: Larken-Regular;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin: 0 0 40px 0;
+}
+
